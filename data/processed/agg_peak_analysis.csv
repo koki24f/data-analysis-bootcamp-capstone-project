@@ -1,0 +1,19 @@
+time_period,mode,total_boardings,avg_load_factor,pct_of_mode_total,period_order
+Night (00-03),Bus,423,0.0128,0.0088,1
+Early (04-06),Bus,1650,0.0134,0.0342,2
+AM Peak (07-09),Bus,14041,0.0136,0.2912,3
+Midday (10-15),Bus,11950,0.0136,0.2479,4
+PM Peak (16-18),Bus,15341,0.0136,0.3182,5
+Evening (19-23),Bus,4806,0.0136,0.0997,6
+Night (00-03),Metro,75,0.0019,0.009,1
+Early (04-06),Metro,265,0.0018,0.0318,2
+AM Peak (07-09),Metro,2457,0.0018,0.295,3
+Midday (10-15),Metro,2085,0.0018,0.2503,4
+PM Peak (16-18),Metro,2620,0.0018,0.3145,5
+Evening (19-23),Metro,828,0.0018,0.0994,6
+Night (00-03),Tram,245,0.0056,0.0085,1
+Early (04-06),Tram,1020,0.0055,0.0355,2
+AM Peak (07-09),Tram,8342,0.0054,0.2906,3
+Midday (10-15),Tram,7115,0.0055,0.2479,4
+PM Peak (16-18),Tram,9086,0.0055,0.3165,5
+Evening (19-23),Tram,2898,0.0055,0.101,6
