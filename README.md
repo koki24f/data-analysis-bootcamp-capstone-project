@@ -21,7 +21,6 @@ Capstone project for the Data Analysis Bootcamp. Four raw exports from the CityT
 │   └── 05_database_bonus.ipynb
 ├── sql/schema.sql               # explicit DDL for the warehouse (bonus)
 ├── data_generator/              # instructor's synthetic data generator (not part of the pipeline)
-├── docs/assignment_brief.md
 ├── report.pbix                  # Power BI report
 ├── requirements.txt
 └── README.md
